@@ -5,4 +5,4 @@ Reproduce figures: install R Package ‘ElemStatLearn’\
 https://cran.r-project.org/web/packages/ElemStatLearn/ElemStatLearn.pdf
 
 ## PRML
-<!--- Life is short. Hope I can be brave enough. --->
+<!---  --->
